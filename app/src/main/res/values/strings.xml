@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sound Effects</string>
+    <string name="action_settings">Settings</string>
+    <string name="burp">Burp</string>
+    <string name="air_horn">Air Horn</string>
+    <string name="chipmunk">Chipmunk</string>
+    <string name="fart">Fart</string>
+    <string name="sting">Sting</string>
+    <string name="pew_pew">Pew Pew</string>
+    <string name="snoring">Snoring</string>
+    <string name="growl">Growl</string>
+    <string name="startRecord">Start Recording</string>
+    <string name="stopRecord">Stop Recording</string>
+    <string name="play">Recording</string>
+
+</resources>
